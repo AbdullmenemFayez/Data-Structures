@@ -1,6 +1,6 @@
 
 <h1>Data Structures</h1>
-<h3>"Scientific CSE PTUK"</h3>
+<h4>"Made by Scientific CSE PTUK"</h4>
 
 
 * [Time Complexity](#TimeComlexity)
