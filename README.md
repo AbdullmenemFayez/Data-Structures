@@ -4,6 +4,18 @@
 
 
 * [Time Complexity](#TimeComlexity)
+* [Array](#Array)
+* [ArrayList](#ArrayList)
+* [LinkedList](#LinkedList)
+* [Stack](#Stack)
+* [Queue](#Queue)
+* [Hash](#Hash)
+* [Binary Tree](#BinaryTree)
+* [Binary Search Tree](#BinarySearchTree)
+* [BFS](#BFS)
+* [AVL Tree](#AVLTree)
+* [Sort](#sort)
+
 
 
 ## TimeComlexity
