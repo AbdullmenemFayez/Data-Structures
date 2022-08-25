@@ -13,7 +13,7 @@
 * [Binary Tree](#BinaryTree)
 * [Binary Search Tree](#BinarySearchTree)
 * [BFS](#BFS)
-* [AVL Tree](#https://www.facebook.com/groups/1071378963758396)
+* [AVL Tree](#AVLTree)
 * [Sort](#sort)
 
 
