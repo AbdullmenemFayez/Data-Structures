@@ -3,7 +3,7 @@
 <h3>"Scientific CSE PTUK"</h3>
 
 
-* [Time Complexity](#Time Comlexity)
+* [Time Complexity](#TimeComlexity)
 
 
 ## TimeComlexity
