@@ -26,7 +26,13 @@
 
 ## TimeComlexity
 
+<b>the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm.</b> 
 
+In order to calculate time complexity on an algorithm, it is assumed that a constant time c is taken to execute one operation, and then the total operations for an input length on N are calculated.
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=2">
+</iframe>
 
 <img width="1433" alt="Screenshot-2016-07-15-16-16-10" src="https://user-images.githubusercontent.com/86553978/186654152-2564e06b-294b-4acc-82b2-86af18d6a485.png">
 
