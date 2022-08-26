@@ -31,7 +31,7 @@
 In order to calculate time complexity on an algorithm, it is assumed that a constant time c is taken to execute one operation, and then the total operations for an input length on N are calculated.
 
 
-[![Time Complexity]([https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=2](https://user-images.githubusercontent.com/86553978/186954073-5ec21bd5-f4ad-4f89-8b0e-6f4421c8dd14.jpg))](https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=2)
+[![Time Complexity]([https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=2](https://user-images.githubusercontent.com/86553978/186954073-5ec21bd5-f4ad-4f89-8b0e-6f4421c8dd14.jpg)](https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=2)
 
 
 
