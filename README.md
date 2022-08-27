@@ -41,9 +41,16 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
                 for (int i = 0; i < n; i++) {
                      System.out.println(n);
             
-                }
+                }// Time O(n)
+                
+                for (int i = 0; i < n; i++) {
+                    for (int j = 0; j < n; j++) {
+                        System.out.println(n)
+                    }
+                }// O(n * n)        
             }
         }
+        
 </br>
 <img width="1433" alt="Screenshot-2016-07-15-16-16-10" src="https://user-images.githubusercontent.com/86553978/186654152-2564e06b-294b-4acc-82b2-86af18d6a485.png">
 
