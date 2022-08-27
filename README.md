@@ -37,17 +37,28 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 
         class Example{
-            void fun(){
+            void fun(int n){
                 for (int i = 0; i < n; i++) {
                      System.out.println(n);
             
                 }// Time O(n)
                 
+
+
                 for (int i = 0; i < n; i++) {
                     for (int j = 0; j < n; j++) {
                         System.out.println(n)
                     }
-                }// O(n * n)        
+                }// O(n * n)    
+
+
+                for (int i = 0 ; i < n ; i++){
+                    int j = n ;
+                    while(j != 0){
+                        j /= 2;
+                    }
+
+                }// O(n * log2(n))    
             }
         }
         
