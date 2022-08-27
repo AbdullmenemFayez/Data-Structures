@@ -58,7 +58,11 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
                         j /= 2;
                     }
 
-                }// O(n * log2(n))    
+                }// O(n * log2(n))
+
+
+
+
             }
         }
         
@@ -70,4 +74,17 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 
 
-    
+    <div class="mtq_question mtq_scroll_item-1" id="mtq_question-15-1"><table class="mtq_question_heading_table"><tbody><tr><td><div class="mtq_question_label">Question 15</div><div id="mtq_stamp-15-1" class="mtq_stamp mtq_correct_stamp"><b>Correct</b></div></td></tr></tbody></table><div id="mtq_question_text-15-1" class="mtq_question_text">What is the time complexity of the below function?
+<div><div id="highlighter_546847" class="syntaxhighlighter nogutter  c"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="code"><div class="container"><div class="line number1 index0 alt2"><code class="c keyword bold">void</code> <code class="c plain">fun(</code><code class="c color1 bold">int</code> <code class="c plain">n, </code><code class="c color1 bold">int</code> <code class="c plain">arr[])</code></div><div class="line number2 index1 alt1"><code class="c plain">{</code></div><div class="line number3 index2 alt2"><code class="c spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="c color1 bold">int</code> <code class="c plain">i = 0, j = 0;</code></div><div class="line number4 index3 alt1"><code class="c spaces">&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="c keyword bold">for</code><code class="c plain">(; i &lt; n; ++i)</code></div><div class="line number5 index4 alt2"><code class="c spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="c keyword bold">while</code><code class="c plain">(j &lt; n &amp;&amp; arr[i] &lt; arr[j])</code></div><div class="line number6 index5 alt1"><code class="c spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code><code class="c plain">j++;</code></div><div class="line number7 index6 alt2"><code class="c plain">}</code></div></div></td></tr></tbody></table><button class="runIdeBtn" onclick="redirect( 'highlighter_546847', 'c' )">Run on IDE</button></div></div></div><table class="mtq_answer_table"><colgroup><col class="mtq_oce_first"></colgroup><tbody><tr id="mtq_row-15-1-1" onclick="mtq_button_click(15,1,1)" class="mtq_clickable"><td class="mtq_letter_button_td"><div id="mtq_button-15-1-1" class="mtq_css_letter_button mtq_letter_button_0 mtq_css_letter_selected mtq_letter_selected-15-1" alt="Question 15, Choice 1" style="display: none;">A</div><div id="mtq_marker-15-1-1" class="mtq_marker mtq_correct_marker" alt="Correct" style="display: block;"></div></td><td class="mtq_answer_td"><div id="mtq_answer_text-15-1-1" class="mtq_answer_text">O(n)</div></td></tr><tr id="mtq_row-15-2-1" onclick="mtq_button_click(15,2,1)" class="mtq_clickable"><td class="mtq_letter_button_td"><div id="mtq_button-15-2-1" class="mtq_css_letter_button mtq_letter_button_1" alt="Question 15, Choice 2">B</div><div id="mtq_marker-15-2-1" class="mtq_marker mtq_wrong_marker" alt="Wrong"></div></td><td class="mtq_answer_td"><div id="mtq_answer_text-15-2-1" class="mtq_answer_text">O(n^2)</div></td></tr><tr id="mtq_row-15-3-1" onclick="mtq_button_click(15,3,1)" class="mtq_clickable"><td class="mtq_letter_button_td"><div id="mtq_button-15-3-1" class="mtq_css_letter_button mtq_letter_button_2" alt="Question 15, Choice 3">C</div><div id="mtq_marker-15-3-1" class="mtq_marker mtq_wrong_marker" alt="Wrong"></div></td><td class="mtq_answer_td"><div id="mtq_answer_text-15-3-1" class="mtq_answer_text">O(nlogn)</div></td></tr><tr id="mtq_row-15-4-1" onclick="mtq_button_click(15,4,1)" class="mtq_clickable"><td class="mtq_letter_button_td"><div id="mtq_button-15-4-1" class="mtq_css_letter_button mtq_letter_button_3" alt="Question 15, Choice 4">D</div><div id="mtq_marker-15-4-1" class="mtq_marker mtq_wrong_marker" alt="Wrong"></div></td><td class="mtq_answer_td"><div id="mtq_answer_text-15-4-1" class="mtq_answer_text">O(n(logn)^2)</div></td></tr></tbody></table><b><a href="https://www.geeksforgeeks.org/algorithms-gq/analysis-of-algorithms-gq/">Analysis of Algorithms</a>&nbsp;&nbsp;&nbsp;&nbsp;</b><br><b><a href=" https://www.geeksforgeeks.org/algorithms-analysis-of-algorithms-question-13/">Discuss it</a></b><br><br><br><div id="mtq_question_explanation-15-1" class="mtq_explanation" style="display: block;"><div class="mtq_explanation-label">Question 15 Explanation:&nbsp;</div><div class="mtq_explanation-text"> In the first look, the time complexity seems to be O(n^2) due to two loops. But, please note that the variable <strong>j</strong> is not initialized for each value of variable <strong>i</strong>. So, the inner loop runs at most <strong>n</strong> times. Please observe the difference between the function given in question and the below function:
+[sourcecode language="C"]
+void fun(int n, int arr[])
+{
+    int i = 0, j = 0;
+    for(; i &lt; n; ++i)
+    {
+        j = 0;
+        while(j &lt; n &amp;&amp; arr[i] &lt; arr[j])
+            j++;
+    }
+}
+[/sourcecode]</div></div></div>
