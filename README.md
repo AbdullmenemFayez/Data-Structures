@@ -60,6 +60,13 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
                 }// O(n * log2(n))
 
+               
+                int i = 0 , j = 0;
+                for( ; i < n ; i++){
+
+                    while(j < n )++j;
+
+                }// O(n) ? اللوب الداخلية فقط مرة وحدة تتم
 
 
 
