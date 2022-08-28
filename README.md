@@ -25,6 +25,10 @@
 
 [Big O Notation .pdf](https://github.com/AbdullmenemFayez/Data-Structures/files/9434792/Big.O.Notation.pdf)
 
+[Data Structures Hadeel](https://mega.nz/file/KSpxDbCB#lLc0QhVnwZQD9dx99_TuQXUj1KhOKnf28P2Dd6vuf4w)
+
+
+
 
 ## TimeComlexity
 
