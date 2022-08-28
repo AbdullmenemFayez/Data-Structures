@@ -23,7 +23,8 @@
 
 ## Some_Summary
 
-* [Big O Notation ](https://github.com/AbdullmenemFayez/Data-Structures/files/9434792/Big.O.Notation.pdf)
+* <a href = "https://github.com/AbdullmenemFayez/Data-Structures/files/9434792/Big.O.Notation.pdf" target = "_blank">Big O Notation</a>
+</br>
 
 
 * [Data Structures :3](https://drive.google.com/drive/folders/1UZHAs9sN_H-9OFry-GuQdGjrcdXp2iP5)
