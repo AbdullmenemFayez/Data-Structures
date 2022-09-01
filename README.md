@@ -113,6 +113,7 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 <b>An ArrayList, or dynamically resizing array, allows you to have the benefits of an array while offering flexibility in size. You won’t run out of space in the ArrayList since it’s capacity will grow as you insert elements.</b>
 
 
+![0_5w9-ibvGwT1EpeH9](https://user-images.githubusercontent.com/86553978/187999731-eb99cae8-40a1-4bef-8c4d-59414b093999.png)
 
 
 
