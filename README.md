@@ -95,18 +95,22 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 ## Array
 <b>An array is a collection of items stored at contiguous memory locations. Array is a container which can hold a fix number of items.</b>
+</br>
+<a href ="https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm" >for more</a>
 
 
 ![array-2](https://user-images.githubusercontent.com/86553978/187993726-f8100a62-1a84-45b5-815a-f9fa50c92e3a.png)
 
-<<<<<<< HEAD
 <a href = "https://leetcode.com/problems/two-sum/"><b>Two Sum</b></a>
-=======
-<a href = "https://leetcode.com/problems/two-sum/">Two Sum</a>
->>>>>>> a645c5dcd9c067fae1637a3ab73b9080e0057c7c
 
+<a href ="https://leetcode.com/problems/contains-duplicate/"><b>Contains Duplicate</b></a>
+
+<a href ="https://leetcode.com/problems/maximum-subarray/"><b> Maximum Subarray</b></a>
 </br>
 
+
+## ArrayList 
+<b>An ArrayList, or dynamically resizing array, allows you to have the benefits of an array while offering flexibility in size. You won’t run out of space in the ArrayList since it’s capacity will grow as you insert elements.</b>
 
 
 
