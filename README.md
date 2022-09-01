@@ -104,4 +104,4 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 
 ## Output
-<h4><a herf = "https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">Output<a></h4>
+<h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">Output<a></h4>
