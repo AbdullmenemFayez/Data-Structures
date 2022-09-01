@@ -94,10 +94,12 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 
 ## Array
-<b>An array is a collection of items stored at contiguous memory locations.</b>
+<b>An array is a collection of items stored at contiguous memory locations. Array is a container which can hold a fix number of items.</b>
+
+
 ![array-2](https://user-images.githubusercontent.com/86553978/187993726-f8100a62-1a84-45b5-815a-f9fa50c92e3a.png)
 
-
+<a herf = "leetcode.com/problems/two-sum/"><b>Two Sum</b></a>
 
 </br>
 
@@ -105,7 +107,7 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 
 
-
+    
 
 ## Output
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
