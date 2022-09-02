@@ -104,7 +104,7 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 <a href="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/ArrayList"><b>Here Implementation of ArrayList</a>
 
-<a href = " https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/ArrayList"><b>ArrayList Implementation "Generic Data type"</b></a>
+<a href = " https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/ArrayList"><b>ArrayList Implementation Generic Data type</b></a>
 
 
 <a href = "https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a>
