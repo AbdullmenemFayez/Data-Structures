@@ -110,6 +110,13 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 </br>
 <a href = "https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a>
 
+
+
+## LinkedList
+<b>A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:</b>
+
+
+
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
