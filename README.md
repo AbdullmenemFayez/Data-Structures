@@ -104,6 +104,8 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 <a href="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/ArrayList"><b>Here Implementation of ArrayList</a>
 
+<a href = " https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/ArrayList"><b>ArrayList Implementation "Generic Data type"</b></a>
+
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
