@@ -71,7 +71,16 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
                 }// O(n) ? اللوب الداخلية فقط مرة وحدة تتم
 
-
+                public int add100(int[] array) {
+                    if (array.length < 100) {
+                             return 0;
+                    }
+                    int sum = 0;
+                    for (int i = 0; i < 100; i++) {
+                               sum += array[i];
+                    }
+                    return sum;
+                }// O(1)
 
             }
         }
