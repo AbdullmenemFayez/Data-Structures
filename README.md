@@ -93,6 +93,8 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 <figure class="table"><table><tbody><tr><td style="direction: ltr; text-align: left;"><strong>Input Length</strong></td><td style="direction: ltr; text-align: left;"><strong>Worst Accepted Time Complexity</strong></td><td><p align="center"><strong>Usually type of solutions</strong></p></td></tr><tr><td><p align="center">10 -12</p></td><td><p align="center">O(N!)</p></td><td><p align="center"><a href="https://www.geeksforgeeks.org/recursion/">Recursion</a> and <a href="https://www.geeksforgeeks.org/backtracking-algorithms/">backtracking</a></p></td></tr><tr><td><p align="center">15-18</p></td><td><p align="center"><font _mstmutation="1">O(2</font><sup>N </sup><font _mstmutation="1">* N)</font></p></td><td><p align="center">Recursion, backtracking, and<a href="https://www.geeksforgeeks.org/bits-manipulation-important-tactics/"> bit manipulation</a></p></td></tr><tr><td><p align="center">18-22</p></td><td><p align="center"><font _mstmutation="1">O(2</font><sup>N </sup><font _mstmutation="1">* N)</font></p></td><td><p align="center">Recursion, backtracking, and bit manipulation</p></td></tr><tr><td><p align="center">30-40</p></td><td style="direction: ltr; text-align: left;"><font _mstmutation="1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;O(2</font><sup>N/2 </sup><font _mstmutation="1">* N)</font></td><td><p align="center"><a href="https://www.geeksforgeeks.org/meet-in-the-middle/">Meet in the middle</a>, <a href="https://www.geeksforgeeks.org/divide-and-conquer-introduction/">Divide and Conquer</a></p></td></tr><tr><td><p align="center">100</p></td><td><p align="center"><font _mstmutation="1">O(N</font><sup>4</sup>)</p></td><td><p align="center"><a href="https://www.geeksforgeeks.org/dynamic-programming/">Dynamic programming</a>, <a href="https://www.geeksforgeeks.org/basic/constructive-algorithms/">Constructive</a></p></td></tr><tr><td><p align="center">400</p></td><td><p align="center"><font _mstmutation="1">O(N</font><sup>3</sup>)</p></td><td><p align="center">Dynamic programming, Constructive</p></td></tr><tr><td><p align="center">2K</p></td><td><p align="center"><font _mstmutation="1">O(N</font><sup>2</sup><font _mstmutation="1">* log N)</font></p></td><td><p align="center">Dynamic programming, <a href="https://www.geeksforgeeks.org/binary-search/">Binary Search</a>,<a href="https://www.geeksforgeeks.org/sorting-algorithms/"> Sorting</a>,&nbsp;<br>Divide and Conquer</p></td></tr><tr><td><p align="center">10K</p></td><td><p align="center"><font _mstmutation="1">O(N</font><sup>2</sup>)</p></td><td><p align="center">Dynamic programming, <a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/">Graph</a>, <a href="https://www.geeksforgeeks.org/binary-tree-data-structure/">Trees</a>, Constructive</p></td></tr><tr><td><p align="center">1M</p></td><td><p align="center">O(N* log N)</p></td><td><p align="center">Sorting, Binary Search, Divide and Conquer</p></td></tr><tr><td><p align="center">100M</p></td><td><p align="center">O(N), O(log N), O(1)</p></td><td><p align="center">Constructive, <a href="https://www.geeksforgeeks.org/mathematical-algorithms/">Mathematical,</a> <a href="https://www.geeksforgeeks.org/greedy-algorithms-general-structure-and-applications/">Greedy Algorithms</a></p></td></tr></tbody></table></figure>
 
+<h2>________________________________________________________</h2>
+
 ## Array
 
 <b>An array is a collection of items stored at contiguous memory locations. Array is a container which can hold a fix number of items.</b>
@@ -108,6 +110,8 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 <a href ="https://leetcode.com/problems/maximum-subarray/"><b> Maximum Subarray</b></a>
 </br>
 
+<h2>________________________________________________________</h2>
+
 ## ArrayList
 
 <b>An ArrayList, or dynamically resizing array, allows you to have the benefits of an array while offering flexibility in size. You won’t run out of space in the ArrayList since it’s capacity will grow as you insert elements.</b>
@@ -122,26 +126,62 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 </br>
 <a href = "https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a>
 
-
+<h2>________________________________________________________</h2>
 
 ## LinkedList
 <b>A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:</b>
 
 ![OIP](https://user-images.githubusercontent.com/86553978/188838560-41cc881b-1123-4458-928e-168c9ee7443d.jpg)
+
+
+
+<h7><a href ="https://www.youtube.com/watch?v=R9PTBwOzceo"><b>Introduction to Linked List</b></a></h7>
+
+<h7><a href ="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></h7>
+
+
 <h4><b>Linked List Vs Array</b></h4>
+
 ![Screenshot20220525085154](https://user-images.githubusercontent.com/86553978/188868038-3aa4e144-7c6a-443f-805a-5ba6350f2ff2.png)
 
 
 
-<a href ="https://www.youtube.com/watch?v=R9PTBwOzceo">Introduction to Linked List</a>
+
+
 
 <a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/LinkedLists">Here Implementation of Linked list</a>
 
 <a herf ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/LinkedLists">Linked List Implementation Generic Data type</a>
 
+<h4>some qustion</h4>
+
+* [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+* [Delete Node in a Linked List ._.](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+* [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+* [<h4>‘Quizzes’ on Linked List</h4>](https://www.geeksforgeeks.org/data-structure-gq/linked-list-gq/)
+
+<h2>________________________________________________________</h2>
+
+## Stack
+
+<div>
+<b>
+ Stack is A collection based on the principle of adding 
+elements and retrieving them in the opposite order.
+
+Last-In, First-Out ("LIFO")
+
+- Elements are stored in order of insertion.
+- We do not think of them as having indexes.
+- Client can only add/remove/examine 
+the last element added (the "top").
+</b></div>
 
 
 
+<h2>________________________________________________________</h2>
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
