@@ -128,6 +128,15 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 <b>A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:</b>
 
 ![OIP](https://user-images.githubusercontent.com/86553978/188838560-41cc881b-1123-4458-928e-168c9ee7443d.jpg)
+<h4><b>Linked List Vs Array</b></h4>
+image
+
+<a href ="https://www.youtube.com/watch?v=R9PTBwOzceo">Introduction to Linked List</a>
+
+<a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/LinkedLists">Here Implementation of Linked list</a>
+
+<a herf ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/LinkedLists">Linked List Implementation Generic Data type</a>
+
 
 
 
