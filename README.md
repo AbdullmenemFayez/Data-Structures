@@ -179,6 +179,8 @@ Last-In, First-Out ("LIFO")
 the last element added (the "top").
 </b></div>
 
+![1_Q4vqHczIojsMtxIRyKlDrA](https://user-images.githubusercontent.com/86553978/188876064-36c0e0af-86ff-4624-96d2-3193dd99060a.png)
+
 
 
 <h2>________________________________________________________</h2>
