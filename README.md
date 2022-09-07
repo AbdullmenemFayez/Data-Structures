@@ -129,7 +129,9 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 ![OIP](https://user-images.githubusercontent.com/86553978/188838560-41cc881b-1123-4458-928e-168c9ee7443d.jpg)
 <h4><b>Linked List Vs Array</b></h4>
-image
+![Screenshot20220525085154](https://user-images.githubusercontent.com/86553978/188868038-3aa4e144-7c6a-443f-805a-5ba6350f2ff2.png)
+
+
 
 <a href ="https://www.youtube.com/watch?v=R9PTBwOzceo">Introduction to Linked List</a>
 
