@@ -179,7 +179,8 @@ Last-In, First-Out ("LIFO")
 the last element added (the "top").
 </b></div>
 
-<img src="C:\Users\abdul\OneDrive\Desktop\1_Q4vqHczIojsMtxIRyKlDrA.png" alt="Stack" width="300" height="300">
+![Applications-of-Stack](https://user-images.githubusercontent.com/86553978/188878337-396acb1e-f547-4d06-acc9-afe095e4e498.png)
+
 
 <h2>________________________________________________________</h2>
 ## Output
