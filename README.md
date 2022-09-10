@@ -11,6 +11,7 @@
 - [LinkedList](#LinkedList)
 - [Stack](#Stack)
 - [Queue](#Queue)
+- [Recursion](#Recursion)
 - [Binary Tree](#BinaryTree)
 - [Binary Search Tree](#BinarySearchTree)
 - [Hash](#Hash)
@@ -227,9 +228,40 @@ the front of the queue
 * [‘Quizzes’ on Queue](https://www.geeksforgeeks.org/data-structure-gq/queue-gq/)
 <h2>________________________________________________________</h2>
 
+## Recursion
+
+<b>
+
+ recursion: The definition of an operation in terms of itself.
+ * <u><h7>Solving a problem using recursion depends on solving
+smaller occurrences of the same problem.<h7></u></b>
+
+* recursive programming: Writing methods that call 
+themselves to solve problems recursively
+
+* An equally powerful substitute for iteration (loops)
+* Particularly well-suited to solving certain types of problems like Tree 
+
+when you need using Recursion you should know two things :
+
+     1  -  Getting down one stair 
+
+     2- Recognizing the bottom
+
+* Most code will look like:
+
+        if (simplest case){
+            compute and return solution
+        } else{
+            divide into similar subproblem (s)
+                    solve each subproblem recursively
+            assemble the overall solution
+        }
 
 
+</b>
 <h2>________________________________________________________</h2>
+
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
