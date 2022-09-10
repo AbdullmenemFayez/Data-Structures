@@ -219,9 +219,16 @@ the front of the queue
 <a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/Queues">Queue Implementation Generic Data type</a>
 
 <h4>some qustion</h4>
+
 * [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&category[]=Queue&sortBy=submissions)
+
 * [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1?page=1&category[]=Queue&sortBy=submissions)
+
 * [‘Quizzes’ on Queue](https://www.geeksforgeeks.org/data-structure-gq/queue-gq/)
+<h2>________________________________________________________</h2>
+
+
+
 <h2>________________________________________________________</h2>
 ## Output
 
