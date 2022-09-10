@@ -206,9 +206,22 @@ insertion but don't have indexes.
 queue, and can only examine/remove
 the front of the queue
 
-![Queue](https://user-images.githubusercontent.com/86553978/189496310-1465a836-1b38-4a1a-826e-4372f8d22446.png)
+
+![Queue](https://user-images.githubusercontent.com/86553978/189496345-42c65b8d-6e9c-4de7-bcdd-a23546467011.png)
 
 
+<a href ="https://www.youtube.com/watch?v=8t_tzT52br8&t=389s">Queue Introduction(Simple Queue vs Circular Queue Using Array)</a>
+<a href = "https://www.youtube.com/watch?v=VhRKjM759W8&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=12"> Queue Using Linked List</a>
+
+
+<a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/Queues">Here Implementation of  Queue </a>
+
+<a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/Queues">Queue Implementation Generic Data type</a>
+
+<h4>some qustion</h4>
+* [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&category[]=Queue&sortBy=submissions)
+* [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1?page=1&category[]=Queue&sortBy=submissions)
+* [‘Quizzes’ on Queue](https://www.geeksforgeeks.org/data-structure-gq/queue-gq/)
 <h2>________________________________________________________</h2>
 ## Output
 
