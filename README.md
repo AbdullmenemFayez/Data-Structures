@@ -236,7 +236,7 @@ the front of the queue
  * <u><h7>Solving a problem using recursion depends on solving
 smaller occurrences of the same problem.<h7></u></b>
 
-* recursive programming: Writing methods that call 
+ recursive programming: Writing methods that call 
 themselves to solve problems recursively
 
 * An equally powerful substitute for iteration (loops)
@@ -258,6 +258,43 @@ when you need using Recursion you should know two things :
             assemble the overall solution
         }
 
+Evrey recursive algorithm involves at least 2 cases:
+
+* base Case : A simple occurrence that can be answered 
+directly.
+
+* recursive case: A more complex occurrence of the problem 
+that cannot be directly answered, but can instead be described 
+in terms of smaller occurrences of the same problem.
+
+* Some recursive algorithms have more than one base or 
+recursive case, but all have at least one of each.
+*  A crucial part of recursive programming is identifying these 
+cases.
+
+<h5>Recursion vs Iteration</h5>
+
+```java
+    public static void fun(int n) {
+        while (n > 0) {
+
+            System.out.print(n); // small piece of problem
+
+            n--; // make the problem smaller
+        }
+        System.out.println(); // Base case n == 0
+    }
+
+    public static void fun(int n) {
+        if (n == 0) {
+            System.out.println(); // Base case n == 0
+        } else {
+            System.out.print(n); // small piece of problem
+
+            fun(n - 1); // make the problem smaller
+        }
+    }    
+```
 
 </b>
 <h2>________________________________________________________</h2>
