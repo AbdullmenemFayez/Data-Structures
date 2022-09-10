@@ -206,6 +206,7 @@ insertion but don't have indexes.
 queue, and can only examine/remove
 the front of the queue
 
+![Queue](https://user-images.githubusercontent.com/86553978/189496310-1465a836-1b38-4a1a-826e-4372f8d22446.png)
 
 
 <h2>________________________________________________________</h2>
