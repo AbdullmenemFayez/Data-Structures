@@ -181,6 +181,32 @@ the last element added (the "top").
 
 ![Applications-of-Stack](https://user-images.githubusercontent.com/86553978/188878337-396acb1e-f547-4d06-acc9-afe095e4e498.png)
 
+<a href ="https://www.youtube.com/watch?v=9BZlgbZFR_c&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=5">Introduction Stack Using Linked List</a>
+
+
+<a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/Stacks">Here Implementation of  Stack </a>
+
+<a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/Stacks">Stack Implementation Generic Data type</a>
+<h4>some qustion</h4>
+
+* [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1?page=1&category[]=Stack&sortBy=submissions)
+
+* [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1?page=1&category[]=Stack&sortBy=submissions)
+
+<h2>________________________________________________________</h2>
+
+
+## Queue 
+
+<b> queue: Retrieves elements in the order they were added.</b>
+* First-In, First-Out ("FIFO")
+* Elements are stored in order of
+insertion but don't have indexes.
+*  Client can only add to the end of the
+queue, and can only examine/remove
+the front of the queue
+
+
 
 <h2>________________________________________________________</h2>
 ## Output
