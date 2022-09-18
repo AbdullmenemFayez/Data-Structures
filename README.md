@@ -351,19 +351,28 @@ from a root to a given node
 * Full (Strictly)Binary tree 
 ,If every node has zero or two children .
 
+![Screenshot 2022-09-18 204623](https://user-images.githubusercontent.com/86553978/190921591-00c1c76b-75a1-4e71-a028-fd8ad12cc7ec.png)
 
+        
 * Complete Binary tree:
 
   A- All levels is completely filled except the last level.
+        
+![Screenshot 2022-09-18 204654](https://user-images.githubusercontent.com/86553978/190921600-e2098320-9658-4fd1-921e-6394b0f15cf8.png)
+
   
   B- All Nodes as left as possible in last level
 
+![Screenshot 2022-09-18 204709](https://user-images.githubusercontent.com/86553978/190921611-ba689813-0606-4474-aa88-5a5dffea199a.png)
 
+        
 * Perfect Binary tree :
 A. Every Nodes has two children
 B. All leaves are at the same level
 
+![Screenshot 2022-09-18 204726](https://user-images.githubusercontent.com/86553978/190921617-2ed22681-b367-406a-ae70-755f6ef80476.png)
 
+        
 <h2>________________________________________________________</h2>
 
 ## Output
