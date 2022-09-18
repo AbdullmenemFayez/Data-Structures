@@ -318,7 +318,7 @@ _ A root node that contains :
              _ The left and / or right subtrre could  be empty
 
         
-        ![Screenshot 2022-09-18 200451](https://user-images.githubusercontent.com/86553978/190919532-d2e3b813-b1d3-4131-b546-38eae2918fe5.png)
+![Screenshot 2022-09-18 200451](https://user-images.githubusercontent.com/86553978/190919532-d2e3b813-b1d3-4131-b546-38eae2918fe5.png)
 
         
 <h2>________________________________________________________</h2>
