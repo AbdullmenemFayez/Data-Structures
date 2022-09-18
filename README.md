@@ -323,6 +323,8 @@ _ A root node that contains :
          * A right subtree
              _ The left and / or right subtrre could  be empty
              
+![Screenshot 2022-09-18 201155](https://user-images.githubusercontent.com/86553978/190919944-cb0ca8a2-9941-46b7-ba0a-28207fa26e97.png)
+
         
 <h2>________________________________________________________</h2>
 
