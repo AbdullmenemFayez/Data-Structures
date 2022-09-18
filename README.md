@@ -299,6 +299,26 @@ cases.
 </b>
 <h2>________________________________________________________</h2>
 
+## BinaryTree
+
+* <b>Tree</b> :  Nodes linked together in some hierarchical fashion (Nonlinear data structure)
+
+* <b>Binary Tree</b> : One where each node has at most two 
+children.
+
+* <h5>A tree is either:</h5> 
+
+_ empty(null), or
+
+_ A root node that contains :
+         
+         * data
+         * A left subtree 
+         * A right subtree
+             _ The left and / or right subtrre could  be empty
+
+<h2>________________________________________________________</h2>
+
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
