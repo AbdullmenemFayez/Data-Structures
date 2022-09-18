@@ -368,11 +368,61 @@ from a root to a given node
         
 * Perfect Binary tree :
 A. Every Nodes has two children
+
 B. All leaves are at the same level
 
 ![Screenshot 2022-09-18 204726](https://user-images.githubusercontent.com/86553978/190921617-2ed22681-b367-406a-ae70-755f6ef80476.png)
 
-        
+
+ <h4>Print IntTree</h4>    
+
+``` java
+private void print(TreeNode root){
+    if(root != null){
+        System.out.print(root.val + " " );
+        print(root.left);
+        print(root.right);
+    }
+}
+```   
+<h5>Traversals :</h5>
+
+* PreOrder : process root node, then its left/right subtrees.
+
+* InOrder : process left subtree, then root node, then right.
+* PostOrder : process left/right subtrees, then root node.
+
+``` java
+    private void preOrder(TreeNode root) {
+        if (root != null) {
+            System.out.print(root.val + " ");
+            preOrder(root.left);
+            preOrder(root.right);
+        }
+    }//output: 17 41 29 9 81 40
+
+    private void inOrder(TreeNode root) {
+        if (root != null) {
+            inOrder(root.left);
+            System.out.print(root.val + " ");
+            inOrder(root.right);
+        }
+    }// output: 29 41 17 81 9 40
+
+    private void postOrder(TreeNode root) {
+        if (root != null) {
+            postOrder(root.left);
+            postOrder(root.right);
+            System.out.print(root.val + " ");
+        }
+    }// 29 41 81 40 9 17
+
+
+
+
+```
+
+
 <h2>________________________________________________________</h2>
 
 ## Output
