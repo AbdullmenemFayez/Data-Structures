@@ -346,6 +346,24 @@ from a root to a given node
 ![Tree Term](https://user-images.githubusercontent.com/86553978/190920897-22c5b0b5-744e-483e-9b6a-1789b2574e47.gif)
 
 
+<h4>Types binary trees</h4>
+
+* Full (Strictly)Binary tree 
+,If every node has zero or two children .
+
+
+* Complete Binary tree:
+
+  A- All levels is completely filled except the last level.
+  
+  B- All Nodes as left as possible in last level
+
+
+* Perfect Binary tree :
+A. Every Nodes has two children
+B. All leaves are at the same level
+
+
 <h2>________________________________________________________</h2>
 
 ## Output
