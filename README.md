@@ -322,10 +322,29 @@ _ A root node that contains :
          * A left subtree 
          * A right subtree
              _ The left and / or right subtrre could  be empty
-             
+
+
 ![Screenshot 2022-09-18 201155](https://user-images.githubusercontent.com/86553978/190919944-cb0ca8a2-9941-46b7-ba0a-28207fa26e97.png)
 
-        
+Terminology : 
+
+* node: an object containing a data value and left/right 
+children
+* root: topmost node of a tree
+* leaf: a node that has no children
+* branch: any internal node; neither the root nor a leaf
+* parent: a node that refers to this one
+* child: a node that this node refers to
+* sibling: a node with a common parent
+* subtree: the smaller tree of nodes on
+the left or right of the current node
+* height: length of the longest path
+from the root to any node
+* level or depth: length of the path
+from a root to a given node
+
+
+
 <h2>________________________________________________________</h2>
 
 ## Output
