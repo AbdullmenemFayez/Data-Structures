@@ -306,6 +306,12 @@ cases.
 * <b>Binary Tree</b> : One where each node has at most two 
 children.
 
+
+
+        
+![Screenshot 2022-09-18 200451](https://user-images.githubusercontent.com/86553978/190919532-d2e3b813-b1d3-4131-b546-38eae2918fe5.png)
+
+
 * <h5>A tree is either:</h5> 
 
 _ empty(null), or
@@ -316,10 +322,7 @@ _ A root node that contains :
          * A left subtree 
          * A right subtree
              _ The left and / or right subtrre could  be empty
-
-        
-![Screenshot 2022-09-18 200451](https://user-images.githubusercontent.com/86553978/190919532-d2e3b813-b1d3-4131-b546-38eae2918fe5.png)
-
+             
         
 <h2>________________________________________________________</h2>
 
