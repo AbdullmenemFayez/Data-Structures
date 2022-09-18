@@ -343,6 +343,7 @@ from the root to any node
 * level or depth: length of the path
 from a root to a given node
 
+![Tree Term](https://user-images.githubusercontent.com/86553978/190920897-22c5b0b5-744e-483e-9b6a-1789b2574e47.gif)
 
 
 <h2>________________________________________________________</h2>
