@@ -391,7 +391,10 @@ private void print(TreeNode root){
 
 * InOrder : process left subtree, then root node, then right.
 * PostOrder : process left/right subtrees, then root node.
+        
+![Screenshot 2022-09-18 212723](https://user-images.githubusercontent.com/86553978/190922753-72528ed6-5aca-4a37-96af-aca4a541cc04.png)
 
+        
 ``` java
     private void preOrder(TreeNode root) {
         if (root != null) {
