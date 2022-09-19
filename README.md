@@ -373,7 +373,23 @@ B. All leaves are at the same level
 
 ![Screenshot 2022-09-18 204726](https://user-images.githubusercontent.com/86553978/190921617-2ed22681-b367-406a-ae70-755f6ef80476.png)
 
+<h4>Class Tree Node :</h4>
 
+``` java
+class TreeNode{
+    int val;
+    TreeNode left,right;
+    public TreeNode(){}
+    public TreeNode(int val){this.val = val;}
+
+    public TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+
+}
+```
  <h4>Print IntTree</h4>    
 
 ``` java
@@ -430,13 +446,21 @@ private void print(TreeNode root){
 
 
 <h4>Representing binary Tree Using Array: </h4>
+
 * Left child = i * 2 + 1
 
 * Right child = i * 2 + 2
 
 ![Screenshot 2022-09-19 191023](https://user-images.githubusercontent.com/86553978/191064054-25e5f7d6-4e07-49d2-b94c-6b82f6d94657.png)
 
-Tree ==> [3,9,2,1,5,null,3,null,4,6,7,8,9,0,null,55]
+<b>Array Binary Tree ==> [3,9,2,1,5,null,3,null,4,6,7,8,9,0,null,55]</b>
+
+<h4>some qustion</h4>
+
+* [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [Same Tree](https://leetcode.com/problems/same-tree/)
+* [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ==>  <h7>	<b> ( | Height(left subTree)- Height(Right SubTree)| < 2 )</b></h7>
+
  
 <h2>________________________________________________________</h2>
 
