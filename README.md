@@ -431,7 +431,12 @@ private void print(TreeNode root){
 
 <h4>Representing binary Tree Using Array: </h4>
 * Left child = i * 2 + 1
+
 * Right child = i * 2 + 2
+
+![Screenshot 2022-09-19 191023](https://user-images.githubusercontent.com/86553978/191064054-25e5f7d6-4e07-49d2-b94c-6b82f6d94657.png)
+
+Tree ==> [3,9,2,1,5,null,3,null,4,6,7,8,9,0,null,55]
  
 <h2>________________________________________________________</h2>
 
