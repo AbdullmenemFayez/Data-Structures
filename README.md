@@ -424,8 +424,15 @@ private void print(TreeNode root){
 
 
 ```
+<b><a href = "https://www.youtube.com/watch?v=GzJoqJO1zdI">Binary Trees - Data Structures Explained</a></b>
+
+<b><a href = "https://www.geeksforgeeks.org/data-structure-gq/binary-trees-gq/">‘Quizzes’ on Binary Trees</a></b>
 
 
+<h4>Representing binary Tree Using Array: </h4>
+* Left child = i * 2 + 1
+* Right child = i * 2 + 2
+ 
 <h2>________________________________________________________</h2>
 
 ## Output
