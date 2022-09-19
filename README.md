@@ -444,6 +444,9 @@ private void print(TreeNode root){
 
 <b><a href = "https://www.geeksforgeeks.org/data-structure-gq/binary-trees-gq/">‘Quizzes’ on Binary Trees</a></b>
 
+     ![Screenshot 2022-09-19 195239](https://user-images.githubusercontent.com/86553978/191071846-06ddeda4-6cf1-41b9-b26b-06ddcf263ab6.png)
+   
+        
 
 <h4>Representing binary Tree Using Array: </h4>
 
