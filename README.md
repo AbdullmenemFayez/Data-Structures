@@ -155,7 +155,7 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 <a herf ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/LinkedLists">Linked List Implementation Generic Data type</a>
 
-<h4>some qustion</h4>
+<h4>some Questions</h4>
 
 * [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 * [Delete Node in a Linked List ._.](https://leetcode.com/problems/delete-node-in-a-linked-list/)
@@ -189,7 +189,7 @@ the last element added (the "top").
 <a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Non_generic/Stacks">Here Implementation of  Stack </a>
 
 <a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/Stacks">Stack Implementation Generic Data type</a>
-<h4>some qustion</h4>
+<h4>some Questions</h4>
 
 * [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1?page=1&category[]=Stack&sortBy=submissions)
 
@@ -220,7 +220,7 @@ the front of the queue
 
 <a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Generic/Queues">Queue Implementation Generic Data type</a>
 
-<h4>some qustion</h4>
+<h4>some Questions</h4>
 
 * [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1?page=1&category[]=Queue&sortBy=submissions)
 
@@ -463,7 +463,7 @@ private void print(TreeNode root){
 
 <b>Array Binary Tree ==> [3,9,2,1,5,null,3,null,4,6,7,8,9,0,null,55]</b>
 
-<h4>some qustion</h4>
+<h4>some Questions</h4>
 
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [Same Tree](https://leetcode.com/problems/same-tree/)
@@ -489,7 +489,7 @@ non-empty node "N" has the following properties :
 
 <a href = "https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Trees">binary Search Implementation</a>
 
-<h4>some qustion</h4>
+<h4>some Questions</h4>
 <a href ="https://leetcode.com/problems/delete-node-in-a-bst/">Delete Node in a BST</a>
 
 <a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a>
