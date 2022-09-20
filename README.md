@@ -15,9 +15,9 @@
 - [Recursion](#Recursion)
 - [Binary Tree](#BinaryTree)
 - [Binary Search Tree](#BinarySearchTree)
-- [Hash](#Hash)
 - [BFS](#BFS)
 - [AVL Tree](#AVLTree)
+- [Hash](#Hash)
 - [Sort](#sort)
 - [Output](#Output)
 - [some Questions](#Questions)
@@ -488,6 +488,17 @@ non-empty node "N" has the following properties :
 <a href = "https://www.youtube.com/watch?v=MikbKCPVsBY&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=22" >Binary Search Tree(Insert-Delete-Search),Find:Successor-Predecessor-Max-Min</a>
 
 <a href = "https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Trees">binary Search Implementation</a>
+
+<h4>some qustion</h4>
+<a href ="https://leetcode.com/problems/delete-node-in-a-bst/">Delete Node in a BST</a>
+
+<a herf="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a>
+
+<a herf ="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a>
+
+
+## BFS
+
 
 <h2>________________________________________________________</h2>
 
