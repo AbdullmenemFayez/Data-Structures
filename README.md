@@ -502,6 +502,8 @@ non-empty node "N" has the following properties :
 
 ![R](https://user-images.githubusercontent.com/86553978/191317999-0c5a7172-cf6d-4ca5-88a4-eb885bdc5c12.gif)
 
+<img src="C:/Users/abdul/Downloads/R.gif" alt="InfiniteGraph Logo" width="320">
+
 
 <h2>________________________________________________________</h2>
 
