@@ -502,7 +502,7 @@ non-empty node "N" has the following properties :
 
 
 
-[<img src="R.gif" width="400"/>](R.gif)
+[<img src="images/R.gif" width="400"/>](R.gif)
 
 <h2>________________________________________________________</h2>
 
