@@ -492,17 +492,21 @@ non-empty node "N" has the following properties :
 <h4>some qustion</h4>
 <a href ="https://leetcode.com/problems/delete-node-in-a-bst/">Delete Node in a BST</a>
 
-<a herf="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a>
+<a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a>
 
-<a herf ="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a>
+<a href ="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a>
 
 
 ## BFS
 
 
-
+<b>BFS: It's an algorithm used to traverse the elements of the Tree Level after level </b>
 
 [<img src="images/R.gif" width="400"/>](R.gif)
+
+<h5> <a href ="https://github.com/AbdullmenemFayez/Data-Structures/blob/main/BFS.java">BFS Code</a> </h5>
+
+<h7><b><a href ="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">Binary Tree Zigzag Level Order Traversal</a></b></h7>
 
 <h2>________________________________________________________</h2>
 
