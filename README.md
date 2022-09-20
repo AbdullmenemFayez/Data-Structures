@@ -499,7 +499,8 @@ non-empty node "N" has the following properties :
 
 ## BFS
 
-![R](https://user-images.githubusercontent.com/86553978/191316872-9191d3b4-953c-4037-8098-2d48fc6e186e.gif)
+
+![R](https://user-images.githubusercontent.com/86553978/191317999-0c5a7172-cf6d-4ca5-88a4-eb885bdc5c12.gif)
 
 
 <h2>________________________________________________________</h2>
