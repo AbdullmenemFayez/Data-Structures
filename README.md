@@ -3,6 +3,7 @@
 
 
 
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=owCqVRbZlbg&amp;list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp" dir="auto"><b>Data Structures Full Course In Arabic</b></a>
 
 - [Some summary](#Some_Summary)
 - [Time Complexity](#TimeComlexity)
@@ -272,6 +273,7 @@ recursive case, but all have at least one of each.
 *  A crucial part of recursive programming is identifying these 
 cases.
 
+<a href ="https://recursion.vercel.app/?fbclid=IwAR3os4335zQsVRiqP5V2z0Z7511XomsW8rIsmIaO4n39kEZAR5Xuo6FOQao"><b><b>recursion Tree Visualizer</b></b> </a>
 <h5>Recursion vs Iteration</h5>
 
 ```java
@@ -444,7 +446,8 @@ private void print(TreeNode root){
 
 <b><a href = "https://www.geeksforgeeks.org/data-structure-gq/binary-trees-gq/">‘Quizzes’ on Binary Trees</a></b>
 
-     ![Screenshot 2022-09-19 195239](https://user-images.githubusercontent.com/86553978/191071846-06ddeda4-6cf1-41b9-b26b-06ddcf263ab6.png)
+
+![Screenshot 2022-09-19 195239](https://user-images.githubusercontent.com/86553978/191071846-06ddeda4-6cf1-41b9-b26b-06ddcf263ab6.png)
    
         
 
@@ -454,7 +457,9 @@ private void print(TreeNode root){
 
 * Right child = i * 2 + 2
 
+
 ![Screenshot 2022-09-19 191023](https://user-images.githubusercontent.com/86553978/191064054-25e5f7d6-4e07-49d2-b94c-6b82f6d94657.png)
+
 
 <b>Array Binary Tree ==> [3,9,2,1,5,null,3,null,4,6,7,8,9,0,null,55]</b>
 
@@ -465,6 +470,25 @@ private void print(TreeNode root){
 * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) ==>  <h7>	<b> ( | Height(left subTree)- Height(Right SubTree)| < 2 )</b></h7>
 
  
+<h2>________________________________________________________</h2>
+
+## BinarySearchTree
+
+binary search tree ("BST"): a binary tree where each 
+non-empty node "N" has the following properties :
+
+* The left subtree of a node contains only nodes with values lesser than the node’s values.
+* The right subtree of a node contains only nodes with values greater than the node’s values.
+* The left and right subtree each must also be a binary search tree.
+
+</br>
+
+<a href = "https://visualgo.net/en?fbclid=IwAR3dm0e8VtuEsOz-dbz_NPEOKII1HO5zcl8-Xya98AhB8ZD43ZLnP6AA8uQ"><b>VisuAlgov </b></a>
+
+<a href = "https://www.youtube.com/watch?v=MikbKCPVsBY&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=22" >Binary Search Tree(Insert-Delete-Search),Find:Successor-Predecessor-Max-Min</a>
+
+<a herf = "https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Trees">binary Search Implementation</a>
+
 <h2>________________________________________________________</h2>
 
 ## Output
