@@ -487,7 +487,7 @@ non-empty node "N" has the following properties :
 
 <a href = "https://www.youtube.com/watch?v=MikbKCPVsBY&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=22" >Binary Search Tree(Insert-Delete-Search),Find:Successor-Predecessor-Max-Min</a>
 
-<a herf = "https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Trees">binary Search Implementation</a>
+<a href = "https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Trees">binary Search Implementation</a>
 
 <h2>________________________________________________________</h2>
 
