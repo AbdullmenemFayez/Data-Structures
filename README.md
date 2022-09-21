@@ -17,7 +17,7 @@
 - [Binary Search Tree](#BinarySearchTree)
 - [BFS](#BFS)
 - [AVL Tree](#AVLTree)
-- [Hash](#Hash)
+- [Hash](#Hashing)
 - [Sort](#sort)
 - [Output](#Output)
 - [some Questions](#Questions)
@@ -527,7 +527,41 @@ so the best case is O(log n) and worst O(n)
 <h5><b>Balancing Binary Search Trees : </b><h5>
 * Adelson-Velskii and Landis <b>(AVL)</b> trees (height-balanced trees) 
 
-<h4><a href ="https://www.youtube.com/watch?v=br-1squJfkA&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=23&t=881s">AVL Tree</a>
+<h4><a href ="https://www.youtube.com/watch?v=br-1squJfkA&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=23&t=881s">AVL Tree</a></h4>
+
+<a href ="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-6-avl-trees-avl-sort/"><b>MIT Open Courseware</b></a>
+
+
+<h4>some Questions</h4>
+
+Given the following Integer elements:
+6, 3, 2, 10, 8, 1, 11, 7, 5, 4, 9
+Draw the tree that results when all of the above elements are added in
+initially empty AVL tree .
+
+ What is the balance factor of the root node of the AVL tree that you drew ? 
+    
+
+ Given the following AVL Tree:
+
+[<img src = "images/Screenshot 2022-09-21 223930.png" width="250"/>](02)
+
+1-  Draw the resulting BST after 5 is removed, but before any rebalancing takes place. Label each node in the 
+resulting tree with its balance factor. Replace a node with both children using an appropriate value from the 
+node's left child.
+
+2-  Now rebalance the tree that results from (a). Draw a new tree for each rotation that occurs when rebalancing the 
+AVL Tree (you only need to draw one tree that results from an RL or LR rotation). You do not need to label 
+these trees with balance factors. 
+
+
+
+<h2>________________________________________________________</h2>
+
+## Hashing
+
+
+
 
 <h2>________________________________________________________</h2>
 
