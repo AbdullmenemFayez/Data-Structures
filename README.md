@@ -510,6 +510,27 @@ non-empty node "N" has the following properties :
 
 <h2>________________________________________________________</h2>
 
+## AVLTree
+
+<h6>
+
+* All BST  operations are O(d), where d is tree depth.
+* Minimum d is <b>O(Log2(N))</b> , N == nodes count for any binary tree. 
+
+so the best case is O(log n) and worst O(n)
+
+* if you insert : 1 , 2 , 3 ,  4 , 5 , 6 to empty BTS you You will get an Lack of “balance” in the binary search Tree and become similar to LinkedList
+
+[<img src="images/Screenshot 2022-09-21 102514.png" width="150"/>](00)
+</h6>
+
+<h5><b>Balancing Binary Search Trees : </b><h5>
+* Adelson-Velskii and Landis <b>(AVL)</b> trees (height-balanced trees) 
+
+<h4><a href ="https://www.youtube.com/watch?v=br-1squJfkA&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=23&t=881s">AVL Tree</a>
+
+<h2>________________________________________________________</h2>
+
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
