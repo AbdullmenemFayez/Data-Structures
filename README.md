@@ -611,7 +611,9 @@ index.</b>
 * <h5>chaining: Resolving collisions by storing a list at each index</h5>
 
     * add/search/remove must traverse lists, but the lists are <b>short</b>
+    
     * impossible to "run out" of indexes
+
 [<img src ="images/Screenshot 2022-09-22 124746.png" width ="600">](04)    
 
 <h6>Rehashing</h6>
