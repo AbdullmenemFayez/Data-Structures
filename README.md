@@ -560,7 +560,79 @@ these trees with balance factors.
 
 ## Hashing
 
+ * hash: To map a value to an integer index.
+   
+    * hash table: An array that stores elements via hashing.
+* hash function: An algorithm that maps values to indexes.   
+    * one possible hash function for integers: HF(I) = I % length
+    
 <b>Hashing</b> : is a technique or process of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used.
+
+
+* Add == > elements[HF(i)] = i 
+
+* Search == > elements[HF(i)] == i
+
+* remove == > elements[HF(i)] = 0 
+
+ <b>What is the runtime of add, contains, and remove? </b>
+ 
+
+
+set.add(11);	// 11 % 10 == 1
+
+set.add(49);	// 49 % 10 == 9
+
+set.add(24);	// 24 % 10 == 4
+
+set.add(7);	    //  7 % 10 == 7
+
+[<img src="images/Screenshot 2022-09-22 122655.png">](03)    
+
+<h5>Hash function for objects</h5>
+
+``` java
+public static int hashFunction(Object e) {
+return Math.abs(e.hashCode()) % elements.length;
+}
+```
+* Add == > elements[HF(o)] = o;
+* Search == > elements[HF(o)].equals(o)
+* Remove== > elements[HF(o)] = null;
+
+<b>collision: When hash function maps 2 values to same 
+index.</b>
+
+
+<b> you have many way to solve collision</b>
+
+* <b>probing: Resolving a collision by moving to another index.</b>
+* <b>clustering: Clumps of elements at neighboring indexes.</b>
+* <h5>chaining: Resolving collisions by storing a list at each index</h5>
+
+    * add/search/remove must traverse lists, but the lists are <b>short</b>
+    * impossible to "run out" of indexes
+[<img src ="images/Screenshot 2022-09-22 124746.png">](04)    
+
+<h6>Rehashing</h6>
+
+* rehash: Growing to a larger array when the table is too 
+full, or one list it is very long.
+   * Cannot simply copy the old array to a new one. (do you know why ??)
+
+* <b>load factor</b>: ratio of (# of elements) / (hash table length)
+
+    * many collections rehash when load factor ≅ .75
+    * can use big prime numbers as hash table sizes to reduce collisions
+    
+[<img src="images/Screenshot 2022-09-22 130548.png" width ="600">](05)
+    
+
+
+
+
+
+
 
 
 <h2>________________________________________________________</h2>
