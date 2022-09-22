@@ -587,7 +587,7 @@ set.add(24);	// 24 % 10 == 4
 
 set.add(7);	    //  7 % 10 == 7
 
-[<img src="images/Screenshot 2022-09-22 122655.png" width ="600">](03)    
+[<img src="images/Screenshot 2022-09-22 122655.png" width ="350">](03)    
 
 <h5>Hash function for objects</h5>
 
@@ -624,7 +624,7 @@ full, or one list it is very long.
 
     * many collections rehash when load factor ≅ .75
     * can use big prime numbers as hash table sizes to reduce collisions
-    
+
 [<img src="images/Screenshot 2022-09-22 130548.png" width ="600">](05)
     
 
