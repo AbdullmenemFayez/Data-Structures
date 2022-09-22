@@ -560,7 +560,7 @@ these trees with balance factors.
 
 ## Hashing
 
-<b><b><h6>Hashing</h6>:is a technique or process of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used.</b>
+<b><h6>Hashing</h6>:is a technique or process of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used.</b>
 
 
 <h2>________________________________________________________</h2>
