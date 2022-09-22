@@ -611,7 +611,7 @@ index.</b>
 * <h5>chaining: Resolving collisions by storing a list at each index</h5>
 
     * add/search/remove must traverse lists, but the lists are <b>short</b>
-    
+
     * impossible to "run out" of indexes
 
 [<img src ="images/Screenshot 2022-09-22 124746.png" width ="600">](04)    
@@ -630,8 +630,9 @@ full, or one list it is very long.
 [<img src="images/Screenshot 2022-09-22 130548.png" width ="600">](05)
     
 
+<b><a href = "https://github.com/Nedal-Esrar/Data-Structure/blob/main/DS/HashMap.java">My friend's hash table :3</a>
 
-
+<a href = "https://github.com/AbdullmenemFayez/My_Data_Structure_code/blob/main/src/com/company/MyHashTable.java">My Hash table :3 </a></b>
 
 
 
