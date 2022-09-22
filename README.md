@@ -4,7 +4,7 @@
 
 
 - <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=owCqVRbZlbg&amp;list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp" dir="auto"><b>Data Structures Full Course In Arabic</b></a>
-
+- [very important note](#important)
 - [Some summary](#Some_Summary)
 - [Time Complexity](#TimeComlexity)
 - [Array](#Array)
@@ -529,6 +529,10 @@ so the best case is O(log n) and worst O(n)
 
 <h4><a href ="https://www.youtube.com/watch?v=br-1squJfkA&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=23&t=881s">AVL Tree</a></h4>
 
+<a href ="https://www.youtube.com/watch?v=FjrleKJT2Ns&list=PLprfEn_dJT0-LlHFHzmX-I9nYc4bqMnLG">AVL Tree - Single Rotation
+ - Double Rotation</a>
+
+
 <a href ="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-6-avl-trees-avl-sort/"><b>MIT Open Courseware</b></a>
 
 
@@ -627,8 +631,26 @@ full, or one list it is very long.
     * many collections rehash when load factor ≅ .75
     * can use big prime numbers as hash table sizes to reduce collisions
 
+ ``` java
+     private void rehash() {
+        List<Integer>[] oldElements = elements;
+        elements = (List<Integer>[])
+                new List[2 * elements.length];
+        for (List<Integer> list : oldElements) {
+            if (list != null) {
+                for (int element : list) {
+                    add(element);
+                }
+            }
+        }
+    }
+
+
+ ```   
+
 [<img src="images/Screenshot 2022-09-22 130548.png" width ="600">](05)
     
+[<img src = "https://media.geeksforgeeks.org/wp-content/cdn-uploads/HashingDataStructure-min-1024x512.png">](06)
 
 <b><a href = "https://github.com/Nedal-Esrar/Data-Structure/blob/main/DS/HashMap.java">My friend's hash table :3</a>
 
@@ -636,10 +658,59 @@ full, or one list it is very long.
 
 
 
+<h4>some Questions</h4>
+
+<a href = "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=1&category[]=Hash&sortBy=submissions">Count pairs with given sum</a>
+
+<a href = "https://leetcode.com/problems/top-k-frequent-elements/">Top K Frequent Elements</a>
 
 
+
+<h2>________________________________________________________</h2>
+
+## Sort 
+
+<a href ="https://www.youtube.com/playlist?list=PLprfEn_dJT0_z-A6FlUYjYJVLh4RrmoiZ">Selection Sort</a>
+
+<a href = "https://www.youtube.com/watch?v=A6m-g0SPzt0&list=PLprfEn_dJT094KooDrue-7hLE64QA2vcF">Bubble Sort</a>
+
+<a href ="https://www.youtube.com/watch?v=Zp44PrsqV4E&list=PLprfEn_dJT0_fRZtS1w0WD8kXaYqUD5ch">Insertion Sort</a>
+
+<a href ="https://www.youtube.com/watch?v=XX4qmWxYv-c&list=PLprfEn_dJT0-iQbFSz324Wg3rVPWm2nj5">Merg Sort</a>
+
+<a href ="https://www.youtube.com/watch?v=JS524MqKM0Q&list=PLprfEn_dJT0-6LaXIBkYaK_qUBCAvfvxo">Quick Sort</a>
+
+<b>
+<a href ="https://github.com/AymanAttili/DataStructures/tree/master/src/com/DataStructures/Sorting">Sort Implementation</a></b>
 <h2>________________________________________________________</h2>
 
 ## Output
 
 <h4><a href ="https://mega.nz/folder/reYz3QoY#iMibmi5CwXd1Z08uo12EOg">example<a></h4>
+<h2>________________________________________________________</h2>
+
+## Questions
+
+<br>
+
+<b><a href ="https://leetcode.com/discuss/career/2347088/compiling-data-structures-questions-scientific-cse-ptuk">Compiling Data Structures Questions "Scientific CSE PTUK"</a></b>
+
+<h2>________________________________________________________</h2>
+
+
+## important
+
+<b>
+If you don't practice and solve a lot of questions, all the sources and books won't benefit you, continuity and Consistency are the key. </b>
+
+<a href = "https://leetcode.com/">Leetcode</a>
+
+<a href = "https://neetcode.io/practice">Neetcode</a>
+
+<a href = "https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions">GeeksForGeeks</a>
+
+<a href = "https://www.youtube.com/c/NeetCode">NeetCode youtube</a>
+
+<a href = "https://courses.cs.washington.edu/courses/cse373/12sp/">CSE 373: Data Structures and Algorithms, Spring 2012</a>
+
+   
