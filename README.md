@@ -587,7 +587,7 @@ set.add(24);	// 24 % 10 == 4
 
 set.add(7);	    //  7 % 10 == 7
 
-[<img src="images/Screenshot 2022-09-22 122655.png">](03)    
+[<img src="images/Screenshot 2022-09-22 122655.png" width ="600">](03)    
 
 <h5>Hash function for objects</h5>
 
@@ -612,7 +612,7 @@ index.</b>
 
     * add/search/remove must traverse lists, but the lists are <b>short</b>
     * impossible to "run out" of indexes
-[<img src ="images/Screenshot 2022-09-22 124746.png">](04)    
+[<img src ="images/Screenshot 2022-09-22 124746.png" width ="600">](04)    
 
 <h6>Rehashing</h6>
 
