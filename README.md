@@ -4,7 +4,10 @@
 
 
 - <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=owCqVRbZlbg&amp;list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp" dir="auto"><b>Data Structures Full Course In Arabic</b></a>
-- [very important note](#important)
+
+<b>
+
+- [important note](#important)</b>
 - [Some summary](#Some_Summary)
 - [Time Complexity](#TimeComlexity)
 - [Array](#Array)
