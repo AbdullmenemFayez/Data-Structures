@@ -3,7 +3,7 @@
 
 
 
-- <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=owCqVRbZlbg&amp;list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp" dir="auto"><b>Data Structures Full Course In Arabic</b></a>
+- <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp" dir="auto"><b>Data Structures Full Course In Arabic</b></a>
 
 <b>
 
