@@ -1,5 +1,4 @@
 <h1 align="center">Data Structures</h1>
-<h4>"Made by Scientific CSE PTUK"</h4>
 
 
 
