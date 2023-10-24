@@ -6,7 +6,7 @@
 
 <b>
 
-- [important note](#important)</b>
+- [important notes](#important)</b>
 - [Some summary](#Some_Summary)
 - [Time Complexity](#TimeComlexity)
 - [Array](#Array)
@@ -36,11 +36,11 @@
 
 ## TimeComlexity
 
-<b>the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm.</b>
+<b> The time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm.</b>
 
 In order to calculate time complexity on an algorithm, it is assumed that a constant time c is taken to execute one operation, and then the total operations for an input length on N are calculated.
 
-- [Time Comlexity video](https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=3)
+- [Time Complexity video](https://www.youtube.com/watch?v=sHhVsGQz9MI&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&index=3)
 
 ```java
         class Example{
@@ -305,7 +305,7 @@ cases.
 
 ## BinaryTree
 
-* <b>Tree</b> :  Nodes linked together in some hierarchical fashion (Nonlinear data structure)
+* <b>Tree</b>:  Nodes linked together in some hierarchical fashion (Nonlinear data structure)
 
 * <b>Binary Tree</b> : One where each node has at most two 
 children.
@@ -325,7 +325,7 @@ _ A root node that contains :
          * data
          * A left subtree 
          * A right subtree
-             _ The left and / or right subtrre could  be empty
+             _ The left and / or right subtree could  be empty
 
 
 ![Screenshot 2022-09-18 201155](https://user-images.githubusercontent.com/86553978/190919944-cb0ca8a2-9941-46b7-ba0a-28207fa26e97.png)
@@ -338,7 +338,7 @@ children
 * leaf: a node that has no children
 * branch: any internal node; neither the root nor a leaf
 * parent: a node that refers to this one
-* child: a node that this node refers to
+* Child: a node that this node refers to
 * sibling: a node with a common parent
 * subtree: the smaller tree of nodes on
 the left or right of the current node
@@ -353,19 +353,19 @@ from a root to a given node
 <h4>Types binary trees</h4>
 
 * Full (Strictly)Binary tree 
-,If every node has zero or two children .
+, If every node has zero or two children.
 
 ![Screenshot 2022-09-18 204623](https://user-images.githubusercontent.com/86553978/190921591-00c1c76b-75a1-4e71-a028-fd8ad12cc7ec.png)
 
         
 * Complete Binary tree:
 
-  A- All levels is completely filled except the last level.
+  A- All levels are completely filled except the last level.
         
 ![Screenshot 2022-09-18 204654](https://user-images.githubusercontent.com/86553978/190921600-e2098320-9658-4fd1-921e-6394b0f15cf8.png)
 
   
-  B- All Nodes as left as possible in last level
+  B- All Nodes as left as possible in the last level
 
 ![Screenshot 2022-09-18 204709](https://user-images.githubusercontent.com/86553978/190921611-ba689813-0606-4474-aa88-5a5dffea199a.png)
 
@@ -382,7 +382,7 @@ B. All leaves are at the same level
 ``` java
 class TreeNode{
     int val;
-    TreeNode left,right;
+    TreeNode left, right;
     public TreeNode(){}
     public TreeNode(int val){this.val = val;}
 
@@ -407,10 +407,10 @@ private void print(TreeNode root){
 ```   
 <h5>Traversals :</h5>
 
-* PreOrder : process root node, then its left/right subtrees.
+* PreOrder: process root node, then its left/right subtrees.
 
-* InOrder : process left subtree, then root node, then right.
-* PostOrder : process left/right subtrees, then root node.
+* InOrder: process left subtree, then root node, then right.
+* PostOrder: process left/right subtrees, then root node.
         
 ![Screenshot 2022-09-18 212723](https://user-images.githubusercontent.com/86553978/190922753-72528ed6-5aca-4a37-96af-aca4a541cc04.png)
 
@@ -521,7 +521,7 @@ non-empty node "N" has the following properties :
 
 so the best case is O(log n) and worst O(n)
 
-* if you insert : 1 , 2 , 3 ,  4 , 5 , 6 to empty BTS you You will get an Lack of “balance” in the binary search Tree and become similar to LinkedList
+* if you insert: 1, 2 , 3,  4 , 5, 6 to empty BTS you will get a Lack of “balance” in the binary search Tree and become similar to LinkedList
 
 [<img src="images/Screenshot 2022-09-21 102514.png" width="150"/>](00)
 </h6>
@@ -544,9 +544,9 @@ so the best case is O(log n) and worst O(n)
 Given the following Integer elements:
 6, 3, 2, 10, 8, 1, 11, 7, 5, 4, 9
 Draw the tree that results when all of the above elements are added in
-initially empty AVL tree .
+initially empty AVL tree.
 
- What is the balance factor of the root node of the AVL tree that you drew ? 
+ What is the balance factor of the root node of the AVL tree that you drew? 
     
 
  Given the following AVL Tree:
@@ -607,11 +607,11 @@ return Math.abs(e.hashCode()) % elements.length;
 * Search == > elements[HF(o)].equals(o)
 * Remove== > elements[HF(o)] = null;
 
-<b>collision: When hash function maps 2 values to same 
+<b>collision: When hash function maps 2 values to the same 
 index.</b>
 
 
-<b> you have many way to solve collision</b>
+<b> Do you have any ways to solve collision</b>
 
 * <b>probing: Resolving a collision by moving to another index.</b>
 * <b>clustering: Clumps of elements at neighboring indexes.</b>
@@ -631,7 +631,7 @@ full, or one list it is very long.
 
 * <b>load factor</b>: ratio of (# of elements) / (hash table length)
 
-    * many collections rehash when load factor ≅ .75
+    * many collections rehash when the load factor ≅ .75
     * can use big prime numbers as hash table sizes to reduce collisions
 
  ``` java
@@ -641,7 +641,7 @@ full, or one list it is very long.
                 new List[2 * elements.length];
         for (List<Integer> list : oldElements) {
             if (list != null) {
-                for (int element : list) {
+                for (int element: list) {
                     add(element);
                 }
             }
