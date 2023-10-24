@@ -101,7 +101,7 @@ In order to calculate time complexity on an algorithm, it is assumed that a cons
 
 ## Array
 
-<b>An array is a collection of items stored at contiguous memory locations. Array is a container which can hold a fix number of items.</b>
+<b>An array is a collection of items stored at contiguous memory locations. Array is a container that can hold a fixed number of items.</b>
 </br>
 <a href ="https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm" >for more</a>
 
